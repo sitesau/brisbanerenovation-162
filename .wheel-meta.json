@@ -1,0 +1,22 @@
+{
+  "wheel_id": 957,
+  "structure": "umbrella",
+  "slug": "brisbanerenovation-162",
+  "project": "renovation-builders-brisbane-seasonal-timing-6038eaf6db88104ae8",
+  "parent_t1_ref": "brisbanerenovation-016",
+  "node_role": "buffer",
+  "money_target": "brisbanerenovation.com.au",
+  "primary_kw": "renovation builders brisbane seasonal timing",
+  "intended_url": "https://aumedia.neocities.org/renovation-builders-brisbane-seasonal-timing-6038eaf6db88104ae8/",
+  "tier": "T2",
+  "writeback_nonce": "2209827ab89c0ea4",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/renovation-builders-brisbane-016/",
+      "anchor": "the main guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
